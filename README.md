@@ -1,4 +1,4 @@
-## Hi, I'm Sara :)
+## Hi, I'm Sara L :)
 # 💫 About Me:
 MSc Statistical Ecology student at the University of St Andrews.<br>Currently working on ML for acoustic spectrograms.
 
