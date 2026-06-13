@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ML/AI techniques**
 
-- 🌱 I’m currently learning **SQL and Quarto websites**
+- 🌱 I’m currently learning **SQL and how to create Quarto websites**
 
 - 💬 Ask me about **ML techniques in Python & R**
 
