@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sara L Thomas</h1>
 <h3 align="center">An MSc Statistics with Ecology student at the University of St Andrews</h3>
 
-- 🔭 I’m currently working on **ML/AI techniques**
+- 🔭 I’m currently learning **ML/AI techniques**
 
 - 🌱 I’m currently learning **SQL and how to create Quarto websites**
 
 - 💬 Ask me about **ML techniques in Python & R**
 
-- 📫 How to reach me **saraloisthomas@gmail.com**
+- 📫 How to reach me by email **saraloisthomas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
