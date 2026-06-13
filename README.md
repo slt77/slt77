@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL and Quarto websites**
 
-- 💬 Ask me about **MLtechniques in Python & R**
+- 💬 Ask me about **ML techniques in Python & R**
 
 - 📫 How to reach me **saraloisthomas@gmail.com**
 
